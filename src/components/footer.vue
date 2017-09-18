@@ -12,6 +12,7 @@
 		    </mu-bottom-nav>
  		</mu-paper>
 	</div>
+	
  </div>
  
   	
